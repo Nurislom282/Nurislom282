@@ -4,7 +4,7 @@
 
 A passionate full-stack developer
 
-- 🖥️ I specialize in **Python, Django, JavaScript, Node.js, Express, SQL, and NoSQL**
+- 🖥️ I specialize in **Python, JavaScript, Node.js, SQL, and NoSQL**
 - 🌱 I’m always learning and growing as a developer
 - 💬 Ask me about **web development, backend, frontend, databases**
 - 🌐 I speak **Uzbek, Russian, and English**
