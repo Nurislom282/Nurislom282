@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nurislom282
+# Hi 👋, I'm Nurislom
 
 A passionate full-stack developer
 
