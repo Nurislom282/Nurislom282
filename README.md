@@ -17,7 +17,7 @@ TypeScript • ReactJS  • EJS • Bootstrap • MaterialUI
 Redux • Axios • JQuery
 
 ### BACKEND
-NodeJS • GraphQL • Express  • MongoDB • Mongoose  
+NodeJS • Express • MongoDB • Mongoose  
 Session & Token Authentication • Bcryptjs • Multer  
 Patterns: MVC • Middleware • Dependency Injection  
 JWT • DotEnv • Form-Data
@@ -51,7 +51,6 @@ MongoDB Compass
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
