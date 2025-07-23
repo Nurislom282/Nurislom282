@@ -13,11 +13,11 @@ A passionate full-stack developer
 ## 🚀 Tech Stack
 
 ### FRONTEND
-TypeScript • ReactJS • NextJS • EJS • Bootstrap • MaterialUI  
+TypeScript • ReactJS  • EJS • Bootstrap • MaterialUI  
 Redux • Axios • JQuery
 
 ### BACKEND
-NodeJS • GraphQL • Express • NESTJS • MongoDB • Mongoose  
+NodeJS • GraphQL • Express  • MongoDB • Mongoose  
 Session & Token Authentication • Bcryptjs • Multer  
 Patterns: MVC • Middleware • Dependency Injection  
 JWT • DotEnv • Form-Data
@@ -48,11 +48,9 @@ MongoDB Compass
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
