@@ -1,4 +1,4 @@
-![image1](image1)
+
 
 # Hi 👋, I'm Nurislom282
 
