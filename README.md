@@ -1,5 +1,3 @@
-
-
 # Hi 👋, I'm Nurislom282
 
 A passionate full-stack developer
@@ -30,6 +28,15 @@ Linux Ubuntu • Docker • PM2
 ### TOOLS
 Postman • Yarn • nvm • npm • SSH • SFTP • Git • GitHub  
 MongoDB Compass
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurislom282&show_icons=true&theme=dark" alt="Nurislom282's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurislom282&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
 
