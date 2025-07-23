@@ -1,23 +1,28 @@
-# Hi there, I'm Nurislom282 👋
+![image1](image1)
 
-🚀 **Full-Stack Developer**  
-Passionate about building robust, scalable web applications from front to back.
+# Hi 👋, I'm Nurislom282
 
-## 🛠️ Tech Stack
+A passionate full-stack developer
 
-- **Languages:** Python, JavaScript, SQL, NoSQL
-- **Frameworks:** Django, Node.js, Express
-- **Databases:** SQL, NoSQL
+- 🖥️ I specialize in **Python, Django, JavaScript, Node.js, Express, SQL, and NoSQL**
+- 🌱 I’m always learning and growing as a developer
+- 💬 Ask me about **web development, backend, frontend, databases**
+- 🌐 I speak **Uzbek, Russian, and English**
+- 🤝 I believe: **Networking is very good**
 
-## 🌍 Languages
+---
 
-- Uzbek
-- Russian
-- English
+### Languages and Tools
 
-## 💡 Fun Fact
-
-> *Networking is very good!*
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ---
 
